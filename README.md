@@ -16,31 +16,38 @@ https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashbo
 
 - Se registró un total de 311 contrataciones, de las cuales más del 50% fueron del sexo femenino, lo que demuestra la inclusión en el proceso de contratación.
 
-
-![Sexo de los empleados](https://github.com/user-attachments/assets/f239f063-c799-4fd9-ae40-713038e31884)
+![Sexo](https://github.com/user-attachments/assets/e2d0d0eb-2f54-4343-8fdc-bbe8203a3334)
 
 
 - El departamento que registró mayor número de contrataciones de personal fue el área de Producción seguido de IT/IS y Ventas. Mostrándose la prevalencia de un mayor número de empleados del sexo femenino excepto por los departamentos de IT/IS donde la presencia del sexo masculino es ligeramente superior.
 
 ![Distribución por departamento y sexo](https://github.com/user-attachments/assets/d6013ca2-cdcf-4316-a658-bc7942748601)
 
-- Del total de los empleados contratados cerca del 67% permanece activo, mientras que cerca del 28% renunció y el 5% fue despedido. 
 
-![Estatus de contratación](https://github.com/user-attachments/assets/30e45b59-292e-4805-8bfd-ab2e39d44051)
+- Del total de los empleados contratados cerca del 67% permanece activo, mientras que cerca del 28% renunció y el 5% fue despedido.
+  
+
+![Estatus de contratación](https://github.com/user-attachments/assets/d20f126f-ab24-47d6-a707-fbb57aaf5bf2)
+
 
 - Las 3 principales causas de término de la relación laboral que se encontraron fueron:
   1.- Otra posición
   2.- No son felices en la empresa
   3.- Más dinero
+  
 
 ![Principales razones de término](https://github.com/user-attachments/assets/1c7279da-0c8a-460a-93d1-9208916ee8de)
 
+
 - En contraste al medir el grado de satisfación de los empleados encontramos que todos los departamentos presentan un Nivel Alto y Medio.
   
+  
   ![Nivel de satisfación del personal](https://github.com/user-attachments/assets/3e49b008-e6f3-4de3-9365-afbf655603bc)
+  
 
 
 - Por último se evaluó el nivel de desempeño del personal de la empresa el cual se encuentra cerca del 90%, lo que demuestra el cumplimiento general de los objetivos.
+  
   
   ![Nivel de desempeño](https://github.com/user-attachments/assets/9d3326e9-737b-42b1-b7a2-fa2e15ef4142)
 
