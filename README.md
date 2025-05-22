@@ -60,7 +60,7 @@ https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashbo
 
 
 - Por último se evaluó el **nivel de desempeño** del personal de la empresa el cual se cumple favorablemente, lo que demuestra el cumplimiento general de los objetivos.
-- 
+
   
   
   ![Nivel de desempeño](https://github.com/user-attachments/assets/9d3326e9-737b-42b1-b7a2-fa2e15ef4142)
