@@ -8,7 +8,7 @@ El link de dicho análisis se encuentra a continuación:
 
 https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashboard1?publish=yes
 
-# Puntos clave encontrados:
+## Puntos clave encontrados:
 
 -Durante el periodo 2009-218 se hicieron un total de 311 contrataciones, siendo el año 2011 el que registró mayor número de movimientos, seguida de 2014 y 2012 respectivamente.
 
@@ -21,7 +21,7 @@ https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashbo
 -El nivel de desempeño personal de la empresa se encuentra por encima del 80% lo que indica el cumplimiento de los objetivos de la empresa. Sin embargo los departamentos de Producción y Ventas necesitan mejora ya que se encuentran resagados respecto al resto de desparmentos. 
 
 
-# Propuestas de mejora:
+## Propuestas de mejora:
 
 -Con la ayuda de los gerentes de área, dar seguimiento a los empleados que presentan problemas de desempeño para conocer el motivo y ofrecer ayuda.
 
