@@ -27,7 +27,8 @@ https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashbo
 - Del total de los empleados contratados cerca del 67% permanece activo, mientras que cerca del 28% renunció y el 5% fue despedido.
   
 
-![Estatus de contratación](https://github.com/user-attachments/assets/d20f126f-ab24-47d6-a707-fbb57aaf5bf2)
+![Estatus de contratación](https://github.com/user-attachments/assets/377c4663-9afb-44d3-984a-1736dc066ef5)
+
 
 
 - Las 3 principales causas de término de la relación laboral que se encontraron fueron:
