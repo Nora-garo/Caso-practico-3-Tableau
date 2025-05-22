@@ -27,7 +27,8 @@ https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashbo
 - Del total de los empleados contratados cerca del *67% permanece activo*, mientras que cerca del *28% renunció* y el *5% fue despedido.*
   
 
-![Estatus de contratación](https://github.com/user-attachments/assets/377c4663-9afb-44d3-984a-1736dc066ef5)
+![Estatus de contratación](https://github.com/user-attachments/assets/e642aefa-d6e7-41c8-b8a7-25b4d9da9cb1)
+
 
 
 
