@@ -29,7 +29,7 @@ https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashbo
 
 
 
-- Del total de los empleados contratados cerca del *67% permanece activo*, mientras que cerca del *28% renunció* y el *5% fue despedido.*
+- Del total de los empleados contratados cerca del *67% permanece activo*, mientras que cerca del *28% renunció* y el *5% fue despedido.* Encontrando que la cifra de renuncia es considerablemente alta casi llegando a un 30%
   
 
 ![Estatus de contratación](https://github.com/user-attachments/assets/e642aefa-d6e7-41c8-b8a7-25b4d9da9cb1)
@@ -38,8 +38,7 @@ https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashbo
 
 
 
-- **Las 3 principales causas de término de la relación laboral** que se encontraron fueron:
-- 
+- **Las 3 principales causas de término de la relación laboral** que se encontraron fueron: 
 1. Otra posición
 2. No son felices en la empresa
 3. Más dinero
@@ -51,7 +50,6 @@ https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashbo
 
 
 - En contraste al medir el **grado de satisfación de los empleados** encontramos que todos los departamentos *presentan un Nivel Alto y Medio.*
-- 
   
   
   ![Nivel de satisfación del personal](https://github.com/user-attachments/assets/3e49b008-e6f3-4de3-9365-afbf655603bc)
@@ -70,14 +68,14 @@ https://public.tableau.com/app/profile/nora.garc.a/viz/Casopracticotableu/Dashbo
 
 ## Conclusiones:
 
--El departamento de RH cumple con los objetivos de crear un entorno laboral inclusivo a través de sus contrataciones.
+-El departamento de RH cumple con los objetivos de crear un entorno laboral inclusivo a través de sus contrataciones al mostrar inclusividad de ambos sexos en los diferentes departamentos de la empresa.
 
--En general el ambiente laboral de la empresa es positivo al mostrar un porcentaje alto de nivel de satisfación de los empleados, sin embargo se puede implementar una estrategia de mejora.
+-En general el ambiente laboral de la empresa es aceptable al mostrar un porcentaje alto de nivel de satisfación de los empleados, sin embargo se puede implementar una estrategia de mejora.
 
--Diseño de estrategias de implemntación de PERKS que permita a los empleados tener acceso a sesiones de psicoterapia, implementar espacios de recreación y deporte etc, que les permita disminuir el porcentaje de insatisfación y mitigar las renuncias por infelicidad que fue una de las principales causas de renuncia. 
+-Diseño de estrategias que permitan la retención de talento, ya que cerca del 30% de la terminación de la realación laboral es por motivo de renuncia.
 
-- Hacer una evaluación de los salarios o complementarlos con beneficios o Perks.
-
+- Hacer una evaluación de los salarios y/o de los beneficios otorgados a los empleados.
+  
 - Diseñar junto con los jefes de departamento un plan de mejora de competencias y habilidades para los empleados cuyo desempeño se encuentra dentro de las categorías de Needs improvement o PIP.
 
 - Dar seguimiento y medir la evolución del desempeño de los empleados y la eficacia de las estrategias implementadas mediante evaluaciones periódicas. 
